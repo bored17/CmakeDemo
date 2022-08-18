@@ -1,0 +1,5 @@
+{
+    "files.associations": {
+        "foo_static.h": "c"
+    }
+}

@@ -1,5 +1,3 @@
 #include <stdio.h>
 
-void bar_shared() {
-    printf("bar_shared()\n");
-}
+void bar_shared() { printf("bar_shared()\n"); }
